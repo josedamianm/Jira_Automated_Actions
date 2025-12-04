@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d37b996-7114-43f3-86a2-76cb79accfa4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Jira_Automated_Actions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assign_2_me_ASD_Tickets.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assign_2_me_ASD_Tickets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DailyActivities_Create.py" beforeDir="false" afterPath="$PROJECT_DIR$/DailyActivities_Create.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Resolve_ASD_Tickets.py" beforeDir="false" afterPath="$PROJECT_DIR$/Resolve_ASD_Tickets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeeklyOR_Create.py" beforeDir="false" afterPath="$PROJECT_DIR$/WeeklyOR_Create.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WeeklyVDF_Create.py" beforeDir="false" afterPath="$PROJECT_DIR$/WeeklyVDF_Create.py" afterDir="false" />
+    <list default="true" id="4d37b996-7114-43f3-86a2-76cb79accfa4" name="Changes" comment="Commit from New Mac">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,40 +15,56 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;josedamianm&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/josedamianm/Jira_Automated_Actions.git&quot;,
+    &quot;accountId&quot;: &quot;b2ffe831-87f5-4047-8900-64f4f1c53645&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="34PipKqZdm69jsX4GdMLXay9Y1q" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.DailyActivities_Create.executor": "Run",
-    "Python.WeeklyOR_Create.executor": "Run",
-    "Python.WeeklyTEF_Create.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.DailyActivities_Create.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WeeklyOR_Create.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WeeklyTEF_Create.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WeeklyVDF_Create.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/josemanco/Library/Mobile Documents/com~apple~CloudDocs/Documents/Development/Python_Scripts/Jira_Automated_Actions&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.26830.99" />
-        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.27397.106" />
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
       </set>
     </attachedChunks>
   </component>
@@ -68,16 +75,54 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1761121788738</updated>
-      <workItem from="1761121789666" duration="1438000" />
+      <workItem from="1761121789666" duration="1746000" />
+      <workItem from="1761647250934" duration="742000" />
+      <workItem from="1761737189254" duration="199000" />
+      <workItem from="1762157776038" duration="86000" />
+      <workItem from="1762157905242" duration="329000" />
+      <workItem from="1762158506951" duration="2150000" />
+      <workItem from="1762853694655" duration="73000" />
+      <workItem from="1762853772872" duration="211000" />
+      <workItem from="1763370523357" duration="24000" />
+      <workItem from="1763370553540" duration="900000" />
+      <workItem from="1763475045778" duration="81000" />
+      <workItem from="1763980458582" duration="145000" />
+      <workItem from="1764577677445" duration="174000" />
+      <workItem from="1764592670909" duration="15000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit from New Mac">
+      <option name="closed" value="true" />
+      <created>1761124156300</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761124156300</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit from New Mac" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit from New Mac" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Jira_Automated_Actions$WeeklyOR_Create.coverage" NAME="WeeklyOR_Create Coverage Results" MODIFIED="1761122618903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Jira_Automated_Actions$WeeklyTEF_Create.coverage" NAME="WeeklyTEF_Create Coverage Results" MODIFIED="1761123919538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Jira_Automated_Actions$DailyActivities_Create.coverage" NAME="DailyActivities_Create Coverage Results" MODIFIED="1761122581154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Jira_Automated_Actions$WeeklyOR_Create.coverage" NAME="WeeklyOR_Create Coverage Results" MODIFIED="1764577773621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Jira_Automated_Actions$WeeklyTEF_Create.coverage" NAME="WeeklyTEF_Create Coverage Results" MODIFIED="1762853880768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Jira_Automated_Actions$DailyActivities_Create.coverage" NAME="DailyActivities_Create Coverage Results" MODIFIED="1763980473208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Jira_Automated_Actions$WeeklyVDF_Create.coverage" NAME="WeeklyVDF_Create Coverage Results" MODIFIED="1764577817481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

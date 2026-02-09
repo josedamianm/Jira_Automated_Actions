@@ -1,12 +1,16 @@
 # For Selenium
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service as ChromeService
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.support.ui import WebDriverWait
 from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.service import Service as ChromeService
+from selenium import webdriver
+import os
+
+# Force arm64 architecture
+os.environ['WDM_ARCH'] = 'arm64'
 
 # Initialize the WebDriver
 service = ChromeService(ChromeDriverManager().install())
@@ -26,7 +30,7 @@ password = wait.until(EC.presence_of_element_located((By.ID, "login-form-passwor
 
 # Adding Login Details
 username.send_keys("jose.manco")
-password.send_keys("JoJeMaNa@2010")
+password.send_keys("20121003@SoMaNa")
 password.send_keys(Keys.ENTER)
 
 # Waiting for DUO
@@ -78,7 +82,7 @@ circle.send_keys("Madrid")
 
 expected_closure_date = wait.until(EC.presence_of_element_located((By.ID, "customfield_10072")))
 expected_closure_date.clear()
-expected_closure_date.send_keys("31/Dec/25 08:00 PM")
+expected_closure_date.send_keys("31/Dec/26 08:00 PM")
 
 select_geography = wait.until(EC.presence_of_element_located((By.ID, "customfield_11563")))
 select = Select(select_geography)

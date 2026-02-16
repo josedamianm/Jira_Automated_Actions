@@ -8,12 +8,16 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service as ChromeService
 from selenium import webdriver
 import os
+import subprocess
 
 # Force arm64 architecture
 os.environ['WDM_ARCH'] = 'arm64'
 
 # Initialize the WebDriver
-service = ChromeService(ChromeDriverManager().install())
+driver_path = ChromeDriverManager().install()
+subprocess.run(["xattr", "-d", "com.apple.quarantine", driver_path], capture_output=True)
+os.chmod(driver_path, 0o755)
+service = ChromeService(driver_path)
 driver = webdriver.Chrome(service=service)
 
 # Opening Jira WebPage
